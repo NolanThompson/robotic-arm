@@ -1,11 +1,8 @@
-using LiveCharts.Wpf;
-using LiveCharts;
 using System;
 using System.Diagnostics;
 using System.IO.Ports;
 using System.Text;
 using System.Windows.Forms.DataVisualization.Charting;
-using LiveCharts.Wpf.Charts.Base;
 
 namespace RoboticArmUI
 {
