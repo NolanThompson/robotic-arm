@@ -1,0 +1,22 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\gjold\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\mbed_rp2040\\4.0.4\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\gjold\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\mbed_rp2040\\4.0.4\\variants\\RASPBERRY_PI_PICO"
+  },
+  {
+    "Sourcefile": "C:\\Users\\gjold\\OneDrive\\Desktop\\Prototype Tank Stuff\\Analysis Scripts\\RoboticArmUI\\RoboticArmUI\\arduinoOut\\sketch\\Arduino.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\gjold\\OneDrive\\Desktop\\Prototype Tank Stuff\\Analysis Scripts\\RoboticArmUI\\RoboticArmUI\\arduinoOut\\sketch\\MotorController.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
