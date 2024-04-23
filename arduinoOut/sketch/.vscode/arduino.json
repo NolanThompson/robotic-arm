@@ -1,7 +1,0 @@
-#line 1 "C:\\Users\\gjold\\OneDrive\\Desktop\\Prototype Tank Stuff\\Analysis Scripts\\RoboticArmUI\\RoboticArmUI\\Arduino\\.vscode\\arduino.json"
-{
-    "port": "COM5",
-    "board": "arduino:mbed_rp2040:pico",
-    "sketch": "arduino.ino",
-    "output": "..\\arduinoOut"
-}

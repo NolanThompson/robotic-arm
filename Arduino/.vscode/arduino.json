@@ -1,6 +1,0 @@
-{
-    "port": "COM5",
-    "board": "arduino:mbed_rp2040:pico",
-    "sketch": "arduino.ino",
-    "output": "..\\arduinoOut"
-}

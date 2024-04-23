@@ -1,0 +1,55 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,value,mount_type,place
+143.002,-42.672,90.0,top,C1,,CAP_CL21_SAM,2nF Cap,smt,True
+97.536,-52.705,180.0,top,C10,,CAP_CL10_SAM,0.1uF Cap,smt,True
+92.456,-58.547,180.0,top,C11,,CAP_CL10_SAM,0.1uF Cap,smt,True
+92.71,-66.167,180.0,top,C12,,CAP_CL10_SAM,0.1uF Cap,smt,True
+97.536,-60.325,180.0,top,C13,,CAP_CL10_SAM,0.1uF Cap,smt,True
+92.71,-71.501,180.0,top,C14,,CAP_CL10_SAM,0.1uF Cap,smt,True
+97.536,-65.405,180.0,top,C15,,CAP_CL10_SAM,0.1uF Cap,smt,True
+143.002,-45.974,90.0,top,C2,,CAP_CL21_SAM,2nF Cap,smt,True
+143.002,-49.784,90.0,top,C3,,CAP_CL21_SAM,2nF Cap,smt,True
+143.4211,-56.261,90.0,top,C4,,CAP_CL21_SAM,2nF Cap,smt,True
+143.4211,-59.563,90.0,top,C5,,CAP_CL21_SAM,2nF Cap,smt,True
+143.383,-62.865,90.0,top,C6,,CAP_CL21_SAM,2nF Cap,smt,True
+143.383,-69.977,90.0,top,C7,,CAP_CL21_SAM,2nF Cap,smt,True
+143.4211,-73.279,90.0,top,C8,,CAP_CL21_SAM,2nF Cap,smt,True
+143.4211,-76.581,90.0,top,C9,,CAP_CL21_SAM,2nF Cap,smt,True
+136.398,-41.91,-90.0,top,J1,,PinHeader_1x04_P2.54mm_Vertical,4 Pin Connector,tht,True
+55.372,-52.705,-90.0,top,J10,,Molex_SL_171971-0002_1x02_P2.54mm_Vertical,2 Pin Conn,tht,True
+54.5973,-70.5504,-90.0,top,J11,,CONN02_EBBA_10X7P6_ADM,Screw Terminal,tht,True
+54.5973,-81.8534,-90.0,top,J12,,CONN02_EBBA_10X7P6_ADM,Screw Terminal,tht,True
+70.612,-90.932,-90.0,top,J13,,PinHeader_1x04_P2.54mm_Vertical,4 Pin Connector,tht,True
+82.296,-90.932,-90.0,top,J14,,PinHeader_1x04_P2.54mm_Vertical,4 Pin Connector,tht,True
+94.234,-90.932,-90.0,top,J15,,PinHeader_1x04_P2.54mm_Vertical,4 Pin Connector,tht,True
+150.368,-41.656,-90.0,top,J2,,Molex_KK-254_AE-6410-05A_1x05_P2.54mm_Vertical,5 Pin Connector,tht,True
+150.4061,-55.372,-90.0,top,J3,,Molex_KK-254_AE-6410-05A_1x05_P2.54mm_Vertical,4 Pin Connector,tht,True
+150.4061,-69.088,-90.0,top,J4,,Molex_KK-254_AE-6410-05A_1x05_P2.54mm_Vertical,4 Pin Connector,tht,True
+83.947,-44.692,180.0,top,J5,,Molex_SL_171971-0002_1x02_P2.54mm_Vertical,2 Pin Conn,tht,True
+75.184,-44.704,180.0,top,J6,,Molex_SL_171971-0002_1x02_P2.54mm_Vertical,2 Pin Conn,tht,True
+55.36,-44.069,-90.0,top,J7,,Molex_SL_171971-0002_1x02_P2.54mm_Vertical,2 Pin Conn,tht,True
+66.421,-44.704,180.0,top,J8,,Molex_SL_171971-0002_1x02_P2.54mm_Vertical,2 Pin Conn,tht,True
+55.372,-61.341,-90.0,top,J9,,Molex_SL_171971-0002_1x02_P2.54mm_Vertical,2 Pin Conn,tht,True
+69.977,-60.833,0.0,top,K1,,RELAY5_J1071A_CRS,J1071AS3VDC.36,tht,True
+145.288,-43.561,180.0,top,R1,,RES_WR06_WRE,10kΩ Res,smt,True
+97.536,-55.96,180.0,top,R10,,RES_WR06_WRE,10kΩ Res,smt,True
+97.536,-54.309,0.0,top,R11,,RES_WR08_WRE,1kΩ Res,smt,True
+92.456,-56.896,0.0,top,R12,,RES_WR08_WRE,1kΩ Res,smt,True
+92.456,-55.245,180.0,top,R13,,RES_WR06_WRE,10kΩ Res,smt,True
+92.71,-64.516,0.0,top,R14,,RES_WR08_WRE,1kΩ Res,smt,True
+92.71,-62.865,180.0,top,R15,,RES_WR06_WRE,10kΩ Res,smt,True
+97.409,-61.976,0.0,top,R16,,RES_WR08_WRE,1kΩ Res,smt,True
+97.663,-63.627,180.0,top,R17,,RES_WR06_WRE,10kΩ Res,smt,True
+92.71,-69.85,0.0,top,R18,,RES_WR08_WRE,1kΩ Res,smt,True
+92.71,-68.199,180.0,top,R19,,RES_WR06_WRE,10kΩ Res,smt,True
+145.288,-46.99,180.0,top,R2,,RES_WR06_WRE,10kΩ Res,smt,True
+97.536,-67.056,0.0,top,R20,,RES_WR08_WRE,1kΩ Res,smt,True
+97.536,-68.707,180.0,top,R21,,RES_WR06_WRE,10kΩ Res,smt,True
+145.288,-50.673,180.0,top,R3,,RES_WR06_WRE,10kΩ Res,smt,True
+145.7071,-57.15,180.0,top,R4,,RES_WR06_WRE,10kΩ Res,smt,True
+145.7071,-60.452,180.0,top,R5,,RES_WR06_WRE,10kΩ Res,smt,True
+145.5801,-63.754,180.0,top,R6,,RES_WR06_WRE,10kΩ Res,smt,True
+145.669,-70.993,180.0,top,R7,,RES_WR06_WRE,10kΩ Res,smt,True
+145.7071,-74.295,180.0,top,R8,,RES_WR06_WRE,10kΩ Res,smt,True
+145.7071,-77.724,180.0,top,R9,,RES_WR06_WRE,10kΩ Res,smt,True
+87.249,-78.867,180.0,top,U2,,P-DIP18-300-2p54-001_TOS,TBD62083APG,tht,True
+112.0455,-65.786,0.0,top,U3,,MODULE_SC0915,SC0915,smt,True

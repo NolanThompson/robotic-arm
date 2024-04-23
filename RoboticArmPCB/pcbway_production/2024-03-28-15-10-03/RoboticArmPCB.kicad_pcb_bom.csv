@@ -1,0 +1,13 @@
+﻿designator,quantity,value,pack,mpn,mount_type
+"C1, C2, C3, C4, C5, C6, C7, C8, C9",9,2nF Cap,CAP_CL21_SAM,,smt
+"C10, C11, C12, C13, C14, C15",6,0.1uF Cap,CAP_CL10_SAM,,smt
+"J1, J13, J14, J15",4,4 Pin Connector,PinHeader_1x04_P2.54mm_Vertical,,tht
+"J10, J5, J6, J7, J8, J9",6,2 Pin Conn,Molex_SL_171971-0002_1x02_P2.54mm_Vertical,,tht
+"J11, J12",2,Screw Terminal,CONN02_EBBA_10X7P6_ADM,,tht
+J2,1,5 Pin Connector,Molex_KK-254_AE-6410-05A_1x05_P2.54mm_Vertical,,tht
+"J3, J4",2,4 Pin Connector,Molex_KK-254_AE-6410-05A_1x05_P2.54mm_Vertical,,tht
+K1,1,J1071AS3VDC.36,RELAY5_J1071A_CRS,,tht
+"R1, R10, R13, R15, R17, R19, R2, R21, R3, R4, R5, R6, R7, R8, R9",15,10kΩ Res,RES_WR06_WRE,,smt
+"R11, R12, R14, R16, R18, R20",6,1kΩ Res,RES_WR08_WRE,,smt
+U2,1,TBD62083APG,P-DIP18-300-2p54-001_TOS,,tht
+U3,1,SC0915,MODULE_SC0915,,smt

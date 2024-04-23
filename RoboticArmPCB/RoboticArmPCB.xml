@@ -1,0 +1,1268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\thedy\Documents\GitHub\UofLRoboticArmCapstone\RoboticArmPCB\RoboticArmPCB.kicad_sch</source>
+    <date>3/28/2024 2:27:02 PM</date>
+    <tool>Eeschema 7.0.10</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>RoboticArmPCB.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>2nF Cap</value>
+      <footprint>CAP_CL21_SAM</footprint>
+      <datasheet>CL21B202KBANNNC</datasheet>
+      <libsource lib="CL21B202KBANNNC" part="CL21B202KBANNNC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_keywords" value="CL21B202KBANNNC"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9a232ca6-4ed9-4323-852e-10905157fe03</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>2nF Cap</value>
+      <footprint>CAP_CL21_SAM</footprint>
+      <datasheet>CL21B202KBANNNC</datasheet>
+      <libsource lib="CL21B202KBANNNC" part="CL21B202KBANNNC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_keywords" value="CL21B202KBANNNC"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a3edc4c5-d649-453e-b936-254ea4287ed5</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>2nF Cap</value>
+      <footprint>CAP_CL21_SAM</footprint>
+      <datasheet>CL21B202KBANNNC</datasheet>
+      <libsource lib="CL21B202KBANNNC" part="CL21B202KBANNNC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_keywords" value="CL21B202KBANNNC"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>66d2ab17-5c33-434f-8aee-66b1adbf8330</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>2nF Cap</value>
+      <footprint>CAP_CL21_SAM</footprint>
+      <datasheet>CL21B202KBANNNC</datasheet>
+      <libsource lib="CL21B202KBANNNC" part="CL21B202KBANNNC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_keywords" value="CL21B202KBANNNC"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5ed05507-1574-44b4-82c4-f6302718c8b0</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>2nF Cap</value>
+      <footprint>CAP_CL21_SAM</footprint>
+      <datasheet>CL21B202KBANNNC</datasheet>
+      <libsource lib="CL21B202KBANNNC" part="CL21B202KBANNNC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_keywords" value="CL21B202KBANNNC"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3d57346e-2ee9-440e-8a9a-dc88eb78b31a</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>2nF Cap</value>
+      <footprint>CAP_CL21_SAM</footprint>
+      <datasheet>CL21B202KBANNNC</datasheet>
+      <libsource lib="CL21B202KBANNNC" part="CL21B202KBANNNC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_keywords" value="CL21B202KBANNNC"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>02772f81-b47b-49cd-93ac-5ae9a9e0de4d</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>2nF Cap</value>
+      <footprint>CAP_CL21_SAM</footprint>
+      <datasheet>CL21B202KBANNNC</datasheet>
+      <libsource lib="CL21B202KBANNNC" part="CL21B202KBANNNC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_keywords" value="CL21B202KBANNNC"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>77903831-4bd1-4db1-808e-d9aaa46b601a</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>2nF Cap</value>
+      <footprint>CAP_CL21_SAM</footprint>
+      <datasheet>CL21B202KBANNNC</datasheet>
+      <libsource lib="CL21B202KBANNNC" part="CL21B202KBANNNC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_keywords" value="CL21B202KBANNNC"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fb2700c9-b780-42b3-8b81-0e7a5c7ac765</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>2nF Cap</value>
+      <footprint>CAP_CL21_SAM</footprint>
+      <datasheet>CL21B202KBANNNC</datasheet>
+      <libsource lib="CL21B202KBANNNC" part="CL21B202KBANNNC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_keywords" value="CL21B202KBANNNC"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f9bd4380-0898-47ed-81e9-fdf7b88ce9bb</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>0.1uF Cap</value>
+      <footprint>CAP_CL10_SAM</footprint>
+      <datasheet>CL10B104KB8NNWC</datasheet>
+      <libsource lib="CL10B104KB8NNWC" part="CL10B104KB8NNWC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_keywords" value="CL10B104KB8NNWC"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3a64251d-9a9e-4a6a-bf79-f25d79833eb4</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>0.1uF Cap</value>
+      <footprint>CAP_CL10_SAM</footprint>
+      <datasheet>CL10B104KB8NNWC</datasheet>
+      <libsource lib="CL10B104KB8NNWC" part="CL10B104KB8NNWC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_keywords" value="CL10B104KB8NNWC"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1156d58d-fa53-4180-a8a3-f6be5a66322b</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>0.1uF Cap</value>
+      <footprint>CAP_CL10_SAM</footprint>
+      <datasheet>CL10B104KB8NNWC</datasheet>
+      <libsource lib="CL10B104KB8NNWC" part="CL10B104KB8NNWC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_keywords" value="CL10B104KB8NNWC"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>076193c5-f082-4afe-8a35-1c551f18c3c5</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>0.1uF Cap</value>
+      <footprint>CAP_CL10_SAM</footprint>
+      <datasheet>CL10B104KB8NNWC</datasheet>
+      <libsource lib="CL10B104KB8NNWC" part="CL10B104KB8NNWC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_keywords" value="CL10B104KB8NNWC"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>59554e6d-1774-4b84-a831-72500e6a0ca8</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>0.1uF Cap</value>
+      <footprint>CAP_CL10_SAM</footprint>
+      <datasheet>CL10B104KB8NNWC</datasheet>
+      <libsource lib="CL10B104KB8NNWC" part="CL10B104KB8NNWC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_keywords" value="CL10B104KB8NNWC"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0068e04d-56d0-470b-a9a0-5a2e8f21fe0c</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>0.1uF Cap</value>
+      <footprint>CAP_CL10_SAM</footprint>
+      <datasheet>CL10B104KB8NNWC</datasheet>
+      <libsource lib="CL10B104KB8NNWC" part="CL10B104KB8NNWC" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_keywords" value="CL10B104KB8NNWC"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5e700bf5-cb51-4fd7-ad8c-990b62cdf747</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>4 Pin Connector</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x04_Pin" description="Generic connector, single row, 01x04, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6888ebcd-bed1-43f3-9e86-c0a9d241d97b</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>5 Pin Connector</value>
+      <footprint>Connector_Molex:Molex_KK-254_AE-6410-05A_1x05_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x05_Pin" description="Generic connector, single row, 01x05, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x05, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eff7cac3-71ae-4e09-a0d7-3e7dee5fceb7</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>4 Pin Connector</value>
+      <footprint>Connector_Molex:Molex_KK-254_AE-6410-05A_1x05_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x05_Pin" description="Generic connector, single row, 01x05, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x05, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e8880f25-a2c0-4e07-8746-13579733b0e6</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>4 Pin Connector</value>
+      <footprint>Connector_Molex:Molex_KK-254_AE-6410-05A_1x05_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x05_Pin" description="Generic connector, single row, 01x05, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x05, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>606f3709-aec9-4469-8134-6714a44ed08e</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>2 Pin Conn</value>
+      <footprint>Connector_Molex:Molex_SL_171971-0002_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Pin" description="Generic connector, single row, 01x02, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>92fcc77a-d7a0-478b-ac90-faa3d7409ad0</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>2 Pin Conn</value>
+      <footprint>Connector_Molex:Molex_SL_171971-0002_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Pin" description="Generic connector, single row, 01x02, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ea52cb87-a45a-4f52-9780-fa271a680119</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>2 Pin Conn</value>
+      <footprint>Connector_Molex:Molex_SL_171971-0002_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Pin" description="Generic connector, single row, 01x02, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38803aac-347e-4de3-ab39-287b67c5ead2</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>2 Pin Conn</value>
+      <footprint>Connector_Molex:Molex_SL_171971-0002_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Pin" description="Generic connector, single row, 01x02, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b8b213b8-0f35-4ac4-9376-f7e80e2cd1f7</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>2 Pin Conn</value>
+      <footprint>Connector_Molex:Molex_SL_171971-0002_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Pin" description="Generic connector, single row, 01x02, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>38ce15da-58c4-4c4a-8492-242b4be20113</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>2 Pin Conn</value>
+      <footprint>Connector_Molex:Molex_SL_171971-0002_1x02_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Pin" description="Generic connector, single row, 01x02, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>50dce2a5-71a8-405c-8a4a-4a412228db6d</tstamps>
+    </comp>
+    <comp ref="J11">
+      <value>Screw Terminal</value>
+      <footprint>CONN02_EBBA_10X7P6_ADM</footprint>
+      <datasheet>EBBA-02-C-SS-BU</datasheet>
+      <libsource lib="EBBA_02_C_SS_BU" part="EBBA-02-C-SS-BU" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_keywords" value="EBBA-02-C-SS-BU"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0f83b20c-1de0-4524-a1a8-76a0b44db40a</tstamps>
+    </comp>
+    <comp ref="J12">
+      <value>Screw Terminal</value>
+      <footprint>CONN02_EBBA_10X7P6_ADM</footprint>
+      <datasheet>EBBA-02-C-SS-BU</datasheet>
+      <libsource lib="EBBA_02_C_SS_BU" part="EBBA-02-C-SS-BU" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_keywords" value="EBBA-02-C-SS-BU"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b7b5a96-3a3b-4600-8ee1-24f823f03601</tstamps>
+    </comp>
+    <comp ref="J13">
+      <value>4 Pin Connector</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x04_Pin" description="Generic connector, single row, 01x04, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4d62793e-d37b-4645-9d2e-c6a20202b0ba</tstamps>
+    </comp>
+    <comp ref="J14">
+      <value>4 Pin Connector</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x04_Pin" description="Generic connector, single row, 01x04, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>453c262e-1983-4ee0-8396-ce490146d647</tstamps>
+    </comp>
+    <comp ref="J15">
+      <value>4 Pin Connector</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x04_Pin" description="Generic connector, single row, 01x04, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>97a80c47-409b-4210-9624-e3beaa994ab5</tstamps>
+    </comp>
+    <comp ref="K1">
+      <value>J1071AS3VDC.36</value>
+      <footprint>RELAY5_J1071A_CRS</footprint>
+      <datasheet>J1071AS3VDC.36</datasheet>
+      <libsource lib="J1071AS3VDC_36" part="J1071AS3VDC.36" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_keywords" value="J1071AS3VDC.36"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c2cc8364-38e3-49f6-9203-ee387ff5e049</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10kΩ Res</value>
+      <footprint>RES_WR06_WRE</footprint>
+      <datasheet>WR06X1002FTL</datasheet>
+      <libsource lib="WR06X1002FTL" part="WR06X1002FTL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_keywords" value="WR06X1002FTL"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>61660742-3c4c-4d6c-9335-23d33385cd72</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10kΩ Res</value>
+      <footprint>RES_WR06_WRE</footprint>
+      <datasheet>WR06X1002FTL</datasheet>
+      <libsource lib="WR06X1002FTL" part="WR06X1002FTL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_keywords" value="WR06X1002FTL"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>30966df2-3229-48db-a809-e30d699cdbf6</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10kΩ Res</value>
+      <footprint>RES_WR06_WRE</footprint>
+      <datasheet>WR06X1002FTL</datasheet>
+      <libsource lib="WR06X1002FTL" part="WR06X1002FTL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_keywords" value="WR06X1002FTL"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4b2e751c-cd79-4baa-bd39-efe2fb657a95</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10kΩ Res</value>
+      <footprint>RES_WR06_WRE</footprint>
+      <datasheet>WR06X1002FTL</datasheet>
+      <libsource lib="WR06X1002FTL" part="WR06X1002FTL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_keywords" value="WR06X1002FTL"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>edc1eb7d-d893-4458-a8b2-2d0cf67d8b11</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10kΩ Res</value>
+      <footprint>RES_WR06_WRE</footprint>
+      <datasheet>WR06X1002FTL</datasheet>
+      <libsource lib="WR06X1002FTL" part="WR06X1002FTL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_keywords" value="WR06X1002FTL"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bc83538b-0ad3-4f82-856e-353e589e48e5</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>10kΩ Res</value>
+      <footprint>RES_WR06_WRE</footprint>
+      <datasheet>WR06X1002FTL</datasheet>
+      <libsource lib="WR06X1002FTL" part="WR06X1002FTL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_keywords" value="WR06X1002FTL"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b8dc5ab3-1880-40c5-8bd6-76b83a4eeb69</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>10kΩ Res</value>
+      <footprint>RES_WR06_WRE</footprint>
+      <datasheet>WR06X1002FTL</datasheet>
+      <libsource lib="WR06X1002FTL" part="WR06X1002FTL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_keywords" value="WR06X1002FTL"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>64beec6c-c92a-4487-91ca-29908640d9f5</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>10kΩ Res</value>
+      <footprint>RES_WR06_WRE</footprint>
+      <datasheet>WR06X1002FTL</datasheet>
+      <libsource lib="WR06X1002FTL" part="WR06X1002FTL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_keywords" value="WR06X1002FTL"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ec35eaa-4846-4fa2-96d6-dc3b6859d702</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>10kΩ Res</value>
+      <footprint>RES_WR06_WRE</footprint>
+      <datasheet>WR06X1002FTL</datasheet>
+      <libsource lib="WR06X1002FTL" part="WR06X1002FTL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_keywords" value="WR06X1002FTL"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5968fcf9-859d-47cc-a7ad-4d6479b25c0e</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>10kΩ Res</value>
+      <footprint>RES_WR06_WRE</footprint>
+      <datasheet>WR06X1002FTL</datasheet>
+      <libsource lib="WR06X1002FTL" part="WR06X1002FTL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_keywords" value="WR06X1002FTL"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c02cbf8-531e-4c6c-bc87-3355c5fc2a42</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>1kΩ Res</value>
+      <footprint>RES_WR08_WRE</footprint>
+      <datasheet>WR08X102 JTL</datasheet>
+      <libsource lib="WR08X102_JTL" part="WR08X102_JTL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_keywords" value="WR08X102 JTL"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e3714584-3472-479c-b38e-78465c28a6c1</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>1kΩ Res</value>
+      <footprint>RES_WR08_WRE</footprint>
+      <datasheet>WR08X102 JTL</datasheet>
+      <libsource lib="WR08X102_JTL" part="WR08X102_JTL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_keywords" value="WR08X102 JTL"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5aeb466c-ecee-4227-8c1b-8aabfdda05b6</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>10kΩ Res</value>
+      <footprint>RES_WR06_WRE</footprint>
+      <datasheet>WR06X1002FTL</datasheet>
+      <libsource lib="WR06X1002FTL" part="WR06X1002FTL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_keywords" value="WR06X1002FTL"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1adbaad3-6c7b-4ced-affb-57b4d9315053</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>1kΩ Res</value>
+      <footprint>RES_WR08_WRE</footprint>
+      <datasheet>WR08X102 JTL</datasheet>
+      <libsource lib="WR08X102_JTL" part="WR08X102_JTL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_keywords" value="WR08X102 JTL"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4d7c1cfc-8812-4f91-a66c-c7d4f76d6356</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>10kΩ Res</value>
+      <footprint>RES_WR06_WRE</footprint>
+      <datasheet>WR06X1002FTL</datasheet>
+      <libsource lib="WR06X1002FTL" part="WR06X1002FTL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_keywords" value="WR06X1002FTL"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e2720ea-b86c-44fe-96b7-7f24b48fe78d</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>1kΩ Res</value>
+      <footprint>RES_WR08_WRE</footprint>
+      <datasheet>WR08X102 JTL</datasheet>
+      <libsource lib="WR08X102_JTL" part="WR08X102_JTL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_keywords" value="WR08X102 JTL"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>19d579ad-9fab-4c04-bd4e-8c3fddba6217</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>10kΩ Res</value>
+      <footprint>RES_WR06_WRE</footprint>
+      <datasheet>WR06X1002FTL</datasheet>
+      <libsource lib="WR06X1002FTL" part="WR06X1002FTL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_keywords" value="WR06X1002FTL"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bc5ec655-69f5-49a9-b4f2-16c8c621c00b</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>1kΩ Res</value>
+      <footprint>RES_WR08_WRE</footprint>
+      <datasheet>WR08X102 JTL</datasheet>
+      <libsource lib="WR08X102_JTL" part="WR08X102_JTL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_keywords" value="WR08X102 JTL"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>40a9726a-706d-45e4-9ac5-43e78c645e5f</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>10kΩ Res</value>
+      <footprint>RES_WR06_WRE</footprint>
+      <datasheet>WR06X1002FTL</datasheet>
+      <libsource lib="WR06X1002FTL" part="WR06X1002FTL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_keywords" value="WR06X1002FTL"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cc0c5312-56eb-40b9-8ef2-69dbc09048dc</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>1kΩ Res</value>
+      <footprint>RES_WR08_WRE</footprint>
+      <datasheet>WR08X102 JTL</datasheet>
+      <libsource lib="WR08X102_JTL" part="WR08X102_JTL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_keywords" value="WR08X102 JTL"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1c7b8fdb-edcf-4f54-97e1-5d71cedb050f</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>10kΩ Res</value>
+      <footprint>RES_WR06_WRE</footprint>
+      <datasheet>WR06X1002FTL</datasheet>
+      <libsource lib="WR06X1002FTL" part="WR06X1002FTL" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_keywords" value="WR06X1002FTL"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3c9bd352-8a28-4b93-a099-40d1ea9acb72</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>SC0918</value>
+      <footprint>SC0918:MODULE_SC0918</footprint>
+      <fields>
+        <field name="MANUFACTURER">Raspberry Pi</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">3.6mm</field>
+        <field name="PARTREV">2.1</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="SC0918" part="SC0918" description=""/>
+      <property name="PARTREV" value="2.1"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="3.6mm"/>
+      <property name="MANUFACTURER" value="Raspberry Pi"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>247013e3-db02-447c-89b0-102582908214</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>TBD62083APG</value>
+      <footprint>P-DIP18-300-2p54-001_TOS</footprint>
+      <datasheet>TBD62083APG</datasheet>
+      <libsource lib="TBD62083APG" part="TBD62083APG" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RoboticArmPCB.kicad_sch"/>
+      <property name="ki_keywords" value="TBD62083APG"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0675bee0-92f4-43e1-8d35-92d1bbc6a4a9</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="CL10B104KB8NNWC" part="CL10B104KB8NNWC">
+      <docs>CL10B104KB8NNWC</docs>
+      <footprints>
+        <fp>CAP_CL10_SAM</fp>
+        <fp>CAP_CL10_SAM-M</fp>
+        <fp>CAP_CL10_SAM-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CL10B104KB8NNWC</field>
+        <field name="Footprint">CAP_CL10_SAM</field>
+        <field name="Datasheet">CL10B104KB8NNWC</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="unspecified"/>
+        <pin num="2" name="" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="CL21B202KBANNNC" part="CL21B202KBANNNC">
+      <docs>CL21B202KBANNNC</docs>
+      <footprints>
+        <fp>CAP_CL21_SAM</fp>
+        <fp>CAP_CL21_SAM-M</fp>
+        <fp>CAP_CL21_SAM-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CL21B202KBANNNC</field>
+        <field name="Footprint">CAP_CL21_SAM</field>
+        <field name="Datasheet">CL21B202KBANNNC</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="unspecified"/>
+        <pin num="2" name="" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x02_Pin">
+      <description>Generic connector, single row, 01x02, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x04_Pin">
+      <description>Generic connector, single row, 01x04, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x05_Pin">
+      <description>Generic connector, single row, 01x05, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x05_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="EBBA_02_C_SS_BU" part="EBBA-02-C-SS-BU">
+      <docs>EBBA-02-C-SS-BU</docs>
+      <footprints>
+        <fp>CONN02_EBBA_10X7P6_ADM</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">EBBA-02-C-SS-BU</field>
+        <field name="Footprint">CONN02_EBBA_10X7P6_ADM</field>
+        <field name="Datasheet">EBBA-02-C-SS-BU</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="J1071AS3VDC_36" part="J1071AS3VDC.36">
+      <docs>J1071AS3VDC.36</docs>
+      <footprints>
+        <fp>RELAY5_J1071A_CRS</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">K</field>
+        <field name="Value">J1071AS3VDC.36</field>
+        <field name="Footprint">RELAY5_J1071A_CRS</field>
+        <field name="Datasheet">J1071AS3VDC.36</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+        <pin num="3" name="3" type="unspecified"/>
+        <pin num="4" name="4" type="unspecified"/>
+        <pin num="5" name="5" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="SC0918" part="SC0918">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SC0918</field>
+        <field name="Footprint">SC0918:MODULE_SC0918</field>
+        <field name="PARTREV">2.1</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">3.6mm</field>
+        <field name="MANUFACTURER">Raspberry Pi</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GP0" type="bidirectional"/>
+        <pin num="2" name="GP1" type="bidirectional"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="GP2" type="bidirectional"/>
+        <pin num="5" name="GP3" type="bidirectional"/>
+        <pin num="6" name="GP4" type="bidirectional"/>
+        <pin num="7" name="GP5" type="bidirectional"/>
+        <pin num="8" name="GND__1" type="power_in"/>
+        <pin num="9" name="GP6" type="bidirectional"/>
+        <pin num="10" name="GP7" type="bidirectional"/>
+        <pin num="11" name="GP8" type="bidirectional"/>
+        <pin num="12" name="GP9" type="bidirectional"/>
+        <pin num="13" name="GND__2" type="power_in"/>
+        <pin num="14" name="GP10" type="bidirectional"/>
+        <pin num="15" name="GP11" type="bidirectional"/>
+        <pin num="16" name="GP12" type="bidirectional"/>
+        <pin num="17" name="GP13" type="bidirectional"/>
+        <pin num="18" name="GND__3" type="power_in"/>
+        <pin num="19" name="GP14" type="bidirectional"/>
+        <pin num="20" name="GP15" type="bidirectional"/>
+        <pin num="21" name="GP16" type="bidirectional"/>
+        <pin num="22" name="GP17" type="bidirectional"/>
+        <pin num="23" name="GND__4" type="power_in"/>
+        <pin num="24" name="GP18" type="bidirectional"/>
+        <pin num="25" name="GP19" type="bidirectional"/>
+        <pin num="26" name="GP20" type="bidirectional"/>
+        <pin num="27" name="GP21" type="bidirectional"/>
+        <pin num="28" name="GND__5" type="power_in"/>
+        <pin num="29" name="GP22" type="bidirectional"/>
+        <pin num="30" name="~{RUN}" type="input"/>
+        <pin num="31" name="GP26" type="bidirectional"/>
+        <pin num="32" name="GP27" type="bidirectional"/>
+        <pin num="33" name="AGND" type="power_in"/>
+        <pin num="34" name="GP28" type="bidirectional"/>
+        <pin num="35" name="ADC_VREF" type="power_in"/>
+        <pin num="36" name="3V3_OUT" type="power_in"/>
+        <pin num="37" name="3V3_EN" type="input"/>
+        <pin num="38" name="GND__6" type="power_in"/>
+        <pin num="39" name="VSYS" type="power_in"/>
+        <pin num="40" name="VBUS" type="power_in"/>
+        <pin num="A" name="USB_SHIELD" type="power_in"/>
+        <pin num="B" name="USB_SHIELD__1" type="power_in"/>
+        <pin num="C" name="USB_SHIELD__2" type="power_in"/>
+        <pin num="D" name="USB_SHIELD__3" type="power_in"/>
+        <pin num="E" name="SWCLK" type="input"/>
+        <pin num="F" name="GND__7" type="power_in"/>
+        <pin num="G" name="SWDIO" type="bidirectional"/>
+        <pin num="TP1" name="TP1_GND" type="power_in"/>
+        <pin num="TP2" name="TP2_USB_DM" type="bidirectional"/>
+        <pin num="TP3" name="TP3_USB_DP" type="bidirectional"/>
+        <pin num="TP4" name="TP4_WL_GPIO1/SMPS_PS" type="no_connect"/>
+        <pin num="TP5" name="TP5_WL_GPIO0/LED" type="output"/>
+        <pin num="TP6" name="TP6_BOOTSEL" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="TBD62083APG" part="TBD62083APG">
+      <docs>TBD62083APG</docs>
+      <footprints>
+        <fp>P-DIP18-300-2p54-001_TOS</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TBD62083APG</field>
+        <field name="Footprint">P-DIP18-300-2p54-001_TOS</field>
+        <field name="Datasheet">TBD62083APG</field>
+      </fields>
+      <pins>
+        <pin num="1" name="I1" type="input"/>
+        <pin num="2" name="I2" type="input"/>
+        <pin num="3" name="I3" type="input"/>
+        <pin num="4" name="I4" type="input"/>
+        <pin num="5" name="I5" type="input"/>
+        <pin num="6" name="I6" type="input"/>
+        <pin num="7" name="I7" type="input"/>
+        <pin num="8" name="I8" type="input"/>
+        <pin num="9" name="GND" type="power_out"/>
+        <pin num="10" name="COMMON" type="unspecified"/>
+        <pin num="11" name="O8" type="output"/>
+        <pin num="12" name="O7" type="output"/>
+        <pin num="13" name="O6" type="output"/>
+        <pin num="14" name="O5" type="output"/>
+        <pin num="15" name="O4" type="output"/>
+        <pin num="16" name="O3" type="output"/>
+        <pin num="17" name="O2" type="output"/>
+        <pin num="18" name="O1" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="WR06X1002FTL" part="WR06X1002FTL">
+      <docs>WR06X1002FTL</docs>
+      <footprints>
+        <fp>RES_WR06_WRE</fp>
+        <fp>RES_WR06_WRE-M</fp>
+        <fp>RES_WR06_WRE-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">WR06X1002FTL</field>
+        <field name="Footprint">RES_WR06_WRE</field>
+        <field name="Datasheet">WR06X1002FTL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="unspecified"/>
+        <pin num="2" name="" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="WR08X102_JTL" part="WR08X102_JTL">
+      <docs>WR08X102 JTL</docs>
+      <footprints>
+        <fp>RES_WR08_WRE</fp>
+        <fp>RES_WR08_WRE-M</fp>
+        <fp>RES_WR08_WRE-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">WR08X102 JTL</field>
+        <field name="Footprint">RES_WR08_WRE</field>
+        <field name="Datasheet">WR08X102 JTL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="unspecified"/>
+        <pin num="2" name="" type="unspecified"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="CL10B104KB8NNWC">
+      <uri>C:\Users\thedy\Documents\GitHub\UofLRoboticArmCapstone\RoboticArmPCB/Parts/CL10B104KB8NNWC/CL10B104KB8NNWC.kicad_sym</uri>
+    </library>
+    <library logical="CL21B202KBANNNC">
+      <uri>C:\Users\thedy\Documents\GitHub\UofLRoboticArmCapstone\RoboticArmPCB/Parts/CL21B202KBANNNC/CL21B202KBANNNC.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="EBBA_02_C_SS_BU">
+      <uri>C:\Users\thedy\Documents\GitHub\UofLRoboticArmCapstone\RoboticArmPCB/Parts/EBBA_02_C_SS_BU/EBBA_02_C_SS_BU.kicad_sym</uri>
+    </library>
+    <library logical="J1071AS3VDC_36">
+      <uri>C:\Users\thedy\Documents\GitHub\UofLRoboticArmCapstone\RoboticArmPCB/Parts/J1071AS3VDC_36/J1071AS3VDC_36.kicad_sym</uri>
+    </library>
+    <library logical="SC0918">
+      <uri>C:\Users\thedy\Documents\GitHub\UofLRoboticArmCapstone\RoboticArmPCB/Parts/SC0918/SC0918.kicad_sym</uri>
+    </library>
+    <library logical="TBD62083APG">
+      <uri>C:\Users\thedy\Documents\GitHub\UofLRoboticArmCapstone\RoboticArmPCB/Parts/TBD62083APG/TBD62083APG.kicad_sym</uri>
+    </library>
+    <library logical="WR06X1002FTL">
+      <uri>C:\Users\thedy\Documents\GitHub\UofLRoboticArmCapstone\RoboticArmPCB/Parts/WR06X1002FTL/WR06X1002FTL.kicad_sym</uri>
+    </library>
+    <library logical="WR08X102_JTL">
+      <uri>C:\Users\thedy\Documents\GitHub\UofLRoboticArmCapstone\RoboticArmPCB/Parts/WR08X102_JTL/WR08X102_JTL.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="3.3V">
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J13" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J14" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J15" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J3" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J4" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="unspecified"/>
+      <node ref="R13" pin="2" pintype="unspecified"/>
+      <node ref="R15" pin="2" pintype="unspecified"/>
+      <node ref="R17" pin="2" pintype="unspecified"/>
+      <node ref="R19" pin="2" pintype="unspecified"/>
+      <node ref="R21" pin="2" pintype="unspecified"/>
+      <node ref="U1" pin="36" pinfunction="3V3_OUT" pintype="power_in"/>
+    </net>
+    <net code="2" name="12V">
+      <node ref="J11" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="K1" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="U2" pin="10" pinfunction="COMMON" pintype="unspecified"/>
+    </net>
+    <net code="3" name="FDBK1">
+      <node ref="C9" pin="1" pintype="unspecified"/>
+      <node ref="R9" pin="2" pintype="unspecified"/>
+      <node ref="U1" pin="22" pinfunction="GP17" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="FDBK2">
+      <node ref="C8" pin="1" pintype="unspecified"/>
+      <node ref="R8" pin="2" pintype="unspecified"/>
+      <node ref="U1" pin="24" pinfunction="GP18" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="FDBK3">
+      <node ref="C7" pin="1" pintype="unspecified"/>
+      <node ref="R7" pin="2" pintype="unspecified"/>
+      <node ref="U1" pin="34" pinfunction="GP28" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="FDBK4">
+      <node ref="C6" pin="1" pintype="unspecified"/>
+      <node ref="R6" pin="2" pintype="unspecified"/>
+      <node ref="U1" pin="25" pinfunction="GP19" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="FDBK5">
+      <node ref="C5" pin="1" pintype="unspecified"/>
+      <node ref="R5" pin="2" pintype="unspecified"/>
+      <node ref="U1" pin="26" pinfunction="GP20" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="FDBK6">
+      <node ref="C4" pin="1" pintype="unspecified"/>
+      <node ref="R4" pin="2" pintype="unspecified"/>
+      <node ref="U1" pin="32" pinfunction="GP27" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="FDBK7">
+      <node ref="C3" pin="1" pintype="unspecified"/>
+      <node ref="R3" pin="2" pintype="unspecified"/>
+      <node ref="U1" pin="27" pinfunction="GP21" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="FDBK8">
+      <node ref="C2" pin="1" pintype="unspecified"/>
+      <node ref="R2" pin="2" pintype="unspecified"/>
+      <node ref="U1" pin="29" pinfunction="GP22" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="FDBK9">
+      <node ref="C1" pin="1" pintype="unspecified"/>
+      <node ref="R1" pin="2" pintype="unspecified"/>
+      <node ref="U1" pin="31" pinfunction="GP26" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="GND">
+      <node ref="C1" pin="2" pintype="unspecified"/>
+      <node ref="C10" pin="2" pintype="unspecified"/>
+      <node ref="C11" pin="2" pintype="unspecified"/>
+      <node ref="C12" pin="2" pintype="unspecified"/>
+      <node ref="C13" pin="2" pintype="unspecified"/>
+      <node ref="C14" pin="2" pintype="unspecified"/>
+      <node ref="C15" pin="2" pintype="unspecified"/>
+      <node ref="C2" pin="2" pintype="unspecified"/>
+      <node ref="C3" pin="2" pintype="unspecified"/>
+      <node ref="C4" pin="2" pintype="unspecified"/>
+      <node ref="C5" pin="2" pintype="unspecified"/>
+      <node ref="C6" pin="2" pintype="unspecified"/>
+      <node ref="C7" pin="2" pintype="unspecified"/>
+      <node ref="C8" pin="2" pintype="unspecified"/>
+      <node ref="C9" pin="2" pintype="unspecified"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J10" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J11" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="J12" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="J13" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J14" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J15" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J9" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="K1" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="K1" pin="4" pinfunction="4" pintype="unspecified"/>
+      <node ref="U1" pin="13" pinfunction="GND__2" pintype="power_in"/>
+      <node ref="U1" pin="18" pinfunction="GND__3" pintype="power_in"/>
+      <node ref="U1" pin="23" pinfunction="GND__4" pintype="power_in"/>
+      <node ref="U1" pin="28" pinfunction="GND__5" pintype="power_in"/>
+      <node ref="U1" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="33" pinfunction="AGND" pintype="power_in"/>
+      <node ref="U1" pin="38" pinfunction="GND__6" pintype="power_in"/>
+      <node ref="U1" pin="8" pinfunction="GND__1" pintype="power_in"/>
+      <node ref="U1" pin="F" pinfunction="GND__7" pintype="power_in"/>
+      <node ref="U1" pin="TP1" pinfunction="TP1_GND" pintype="power_in"/>
+      <node ref="U2" pin="9" pinfunction="GND" pintype="power_out"/>
+    </net>
+    <net code="13" name="LS1">
+      <node ref="C10" pin="1" pintype="unspecified"/>
+      <node ref="R10" pin="1" pintype="unspecified"/>
+      <node ref="R11" pin="2" pintype="unspecified"/>
+      <node ref="U1" pin="6" pinfunction="GP4" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="LS2">
+      <node ref="C11" pin="1" pintype="unspecified"/>
+      <node ref="R12" pin="2" pintype="unspecified"/>
+      <node ref="R13" pin="1" pintype="unspecified"/>
+      <node ref="U1" pin="7" pinfunction="GP5" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="LS3">
+      <node ref="C13" pin="1" pintype="unspecified"/>
+      <node ref="R16" pin="2" pintype="unspecified"/>
+      <node ref="R17" pin="1" pintype="unspecified"/>
+      <node ref="U1" pin="9" pinfunction="GP6" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="LS4">
+      <node ref="C12" pin="1" pintype="unspecified"/>
+      <node ref="R14" pin="2" pintype="unspecified"/>
+      <node ref="R15" pin="1" pintype="unspecified"/>
+      <node ref="U1" pin="10" pinfunction="GP7" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="LS5">
+      <node ref="C15" pin="1" pintype="unspecified"/>
+      <node ref="R20" pin="2" pintype="unspecified"/>
+      <node ref="R21" pin="1" pintype="unspecified"/>
+      <node ref="U1" pin="11" pinfunction="GP8" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="LS6">
+      <node ref="C14" pin="1" pintype="unspecified"/>
+      <node ref="R18" pin="2" pintype="unspecified"/>
+      <node ref="R19" pin="1" pintype="unspecified"/>
+      <node ref="U1" pin="12" pinfunction="GP9" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="M1_PWM_CCW">
+      <node ref="J13" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="GP11" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="M1_PWM_CW">
+      <node ref="J13" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="GP12" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="M2_PWM_CCW">
+      <node ref="J14" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="GP13" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="M2_PWM_CW">
+      <node ref="J14" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="GP14" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="M3_PWM_CCW">
+      <node ref="J15" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="21" pinfunction="GP16" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="M3_PWM_CW">
+      <node ref="J15" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="GP15" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="Net-(J2-Pin_2)">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="unspecified"/>
+    </net>
+    <net code="26" name="Net-(J2-Pin_3)">
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="unspecified"/>
+    </net>
+    <net code="27" name="Net-(J2-Pin_4)">
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="unspecified"/>
+    </net>
+    <net code="28" name="Net-(J3-Pin_2)">
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="unspecified"/>
+    </net>
+    <net code="29" name="Net-(J3-Pin_3)">
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="unspecified"/>
+    </net>
+    <net code="30" name="Net-(J3-Pin_4)">
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="unspecified"/>
+    </net>
+    <net code="31" name="Net-(J4-Pin_2)">
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="unspecified"/>
+    </net>
+    <net code="32" name="Net-(J4-Pin_3)">
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="unspecified"/>
+    </net>
+    <net code="33" name="Net-(J4-Pin_4)">
+      <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="unspecified"/>
+    </net>
+    <net code="34" name="Net-(J5-Pin_2)">
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="unspecified"/>
+    </net>
+    <net code="35" name="Net-(J6-Pin_2)">
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="unspecified"/>
+    </net>
+    <net code="36" name="Net-(J7-Pin_2)">
+      <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="unspecified"/>
+    </net>
+    <net code="37" name="Net-(J8-Pin_2)">
+      <node ref="J8" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="unspecified"/>
+    </net>
+    <net code="38" name="Net-(J9-Pin_2)">
+      <node ref="J9" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="unspecified"/>
+    </net>
+    <net code="39" name="Net-(J10-Pin_2)">
+      <node ref="J10" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="unspecified"/>
+    </net>
+    <net code="40" name="Net-(U2-O1)">
+      <node ref="K1" pin="5" pinfunction="5" pintype="unspecified"/>
+      <node ref="U2" pin="18" pinfunction="O1" pintype="output"/>
+    </net>
+    <net code="41" name="SCL1">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="GP3" pintype="bidirectional"/>
+    </net>
+    <net code="42" name="SDA1">
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="GP2" pintype="bidirectional"/>
+    </net>
+    <net code="43" name="Solenoid PWR">
+      <node ref="J12" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="K1" pin="3" pinfunction="3" pintype="unspecified"/>
+    </net>
+    <net code="44" name="Vacuum">
+      <node ref="U1" pin="14" pinfunction="GP10" pintype="bidirectional"/>
+      <node ref="U2" pin="1" pinfunction="I1" pintype="input"/>
+    </net>
+    <net code="45" name="unconnected-(U1-3V3_EN-Pad37)">
+      <node ref="U1" pin="37" pinfunction="3V3_EN" pintype="input"/>
+    </net>
+    <net code="46" name="unconnected-(U1-ADC_VREF-Pad35)">
+      <node ref="U1" pin="35" pinfunction="ADC_VREF" pintype="power_in"/>
+    </net>
+    <net code="47" name="unconnected-(U1-GP0-Pad1)">
+      <node ref="U1" pin="1" pinfunction="GP0" pintype="bidirectional"/>
+    </net>
+    <net code="48" name="unconnected-(U1-GP1-Pad2)">
+      <node ref="U1" pin="2" pinfunction="GP1" pintype="bidirectional"/>
+    </net>
+    <net code="49" name="unconnected-(U1-SWCLK-PadE)">
+      <node ref="U1" pin="E" pinfunction="SWCLK" pintype="input"/>
+    </net>
+    <net code="50" name="unconnected-(U1-SWDIO-PadG)">
+      <node ref="U1" pin="G" pinfunction="SWDIO" pintype="bidirectional"/>
+    </net>
+    <net code="51" name="unconnected-(U1-TP2_USB_DM-PadTP2)">
+      <node ref="U1" pin="TP2" pinfunction="TP2_USB_DM" pintype="bidirectional"/>
+    </net>
+    <net code="52" name="unconnected-(U1-TP3_USB_DP-PadTP3)">
+      <node ref="U1" pin="TP3" pinfunction="TP3_USB_DP" pintype="bidirectional"/>
+    </net>
+    <net code="53" name="unconnected-(U1-TP4_WL_GPIO1{slash}SMPS_PS-PadTP4)">
+      <node ref="U1" pin="TP4" pinfunction="TP4_WL_GPIO1/SMPS_PS" pintype="no_connect"/>
+    </net>
+    <net code="54" name="unconnected-(U1-TP5_WL_GPIO0{slash}LED-PadTP5)">
+      <node ref="U1" pin="TP5" pinfunction="TP5_WL_GPIO0/LED" pintype="output"/>
+    </net>
+    <net code="55" name="unconnected-(U1-TP6_BOOTSEL-PadTP6)">
+      <node ref="U1" pin="TP6" pinfunction="TP6_BOOTSEL" pintype="input"/>
+    </net>
+    <net code="56" name="unconnected-(U1-USB_SHIELD-PadA)">
+      <node ref="U1" pin="A" pinfunction="USB_SHIELD" pintype="power_in"/>
+    </net>
+    <net code="57" name="unconnected-(U1-USB_SHIELD__1-PadB)">
+      <node ref="U1" pin="B" pinfunction="USB_SHIELD__1" pintype="power_in"/>
+    </net>
+    <net code="58" name="unconnected-(U1-USB_SHIELD__2-PadC)">
+      <node ref="U1" pin="C" pinfunction="USB_SHIELD__2" pintype="power_in"/>
+    </net>
+    <net code="59" name="unconnected-(U1-USB_SHIELD__3-PadD)">
+      <node ref="U1" pin="D" pinfunction="USB_SHIELD__3" pintype="power_in"/>
+    </net>
+    <net code="60" name="unconnected-(U1-VBUS-Pad40)">
+      <node ref="U1" pin="40" pinfunction="VBUS" pintype="power_in"/>
+    </net>
+    <net code="61" name="unconnected-(U1-VSYS-Pad39)">
+      <node ref="U1" pin="39" pinfunction="VSYS" pintype="power_in"/>
+    </net>
+    <net code="62" name="unconnected-(U1-~{RUN}-Pad30)">
+      <node ref="U1" pin="30" pinfunction="~{RUN}" pintype="input"/>
+    </net>
+    <net code="63" name="unconnected-(U2-I2-Pad2)">
+      <node ref="U2" pin="2" pinfunction="I2" pintype="input"/>
+    </net>
+    <net code="64" name="unconnected-(U2-I3-Pad3)">
+      <node ref="U2" pin="3" pinfunction="I3" pintype="input"/>
+    </net>
+    <net code="65" name="unconnected-(U2-I4-Pad4)">
+      <node ref="U2" pin="4" pinfunction="I4" pintype="input"/>
+    </net>
+    <net code="66" name="unconnected-(U2-I5-Pad5)">
+      <node ref="U2" pin="5" pinfunction="I5" pintype="input"/>
+    </net>
+    <net code="67" name="unconnected-(U2-I6-Pad6)">
+      <node ref="U2" pin="6" pinfunction="I6" pintype="input"/>
+    </net>
+    <net code="68" name="unconnected-(U2-I7-Pad7)">
+      <node ref="U2" pin="7" pinfunction="I7" pintype="input"/>
+    </net>
+    <net code="69" name="unconnected-(U2-I8-Pad8)">
+      <node ref="U2" pin="8" pinfunction="I8" pintype="input"/>
+    </net>
+    <net code="70" name="unconnected-(U2-O2-Pad17)">
+      <node ref="U2" pin="17" pinfunction="O2" pintype="output"/>
+    </net>
+    <net code="71" name="unconnected-(U2-O3-Pad16)">
+      <node ref="U2" pin="16" pinfunction="O3" pintype="output"/>
+    </net>
+    <net code="72" name="unconnected-(U2-O4-Pad15)">
+      <node ref="U2" pin="15" pinfunction="O4" pintype="output"/>
+    </net>
+    <net code="73" name="unconnected-(U2-O5-Pad14)">
+      <node ref="U2" pin="14" pinfunction="O5" pintype="output"/>
+    </net>
+    <net code="74" name="unconnected-(U2-O6-Pad13)">
+      <node ref="U2" pin="13" pinfunction="O6" pintype="output"/>
+    </net>
+    <net code="75" name="unconnected-(U2-O7-Pad12)">
+      <node ref="U2" pin="12" pinfunction="O7" pintype="output"/>
+    </net>
+    <net code="76" name="unconnected-(U2-O8-Pad11)">
+      <node ref="U2" pin="11" pinfunction="O8" pintype="output"/>
+    </net>
+  </nets>
+</export>
