@@ -29,9 +29,9 @@
         private void InitializeComponent()
         {
             components = new System.ComponentModel.Container();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series1 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea2 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend2 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series2 = new System.Windows.Forms.DataVisualization.Charting.Series();
             comPortComboBox = new ComboBox();
             buttonRefresh = new Button();
             buttonLeft = new Button();
@@ -47,8 +47,19 @@
             checkBox1 = new CheckBox();
             timer1 = new System.Windows.Forms.Timer(components);
             chart1 = new System.Windows.Forms.DataVisualization.Charting.Chart();
+            pictureBoxVideo = new PictureBox();
+            pictureBoxContour = new PictureBox();
+            checkBox2 = new CheckBox();
+            label1 = new Label();
+            button3 = new Button();
+            label2 = new Label();
+            checkBox3 = new CheckBox();
+            button4 = new Button();
+            checkBox4 = new CheckBox();
             ((System.ComponentModel.ISupportInitialize)numericUpDown1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)chart1).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBoxVideo).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBoxContour).BeginInit();
             SuspendLayout();
             // 
             // comPortComboBox
@@ -182,7 +193,7 @@
             // 
             // button2
             // 
-            button2.Location = new Point(728, 233);
+            button2.Location = new Point(752, 233);
             button2.Name = "button2";
             button2.Size = new Size(94, 29);
             button2.TabIndex = 11;
@@ -195,7 +206,7 @@
             // checkBox1
             // 
             checkBox1.AutoSize = true;
-            checkBox1.Location = new Point(353, 41);
+            checkBox1.Location = new Point(303, 41);
             checkBox1.Name = "checkBox1";
             checkBox1.Size = new Size(88, 24);
             checkBox1.TabIndex = 12;
@@ -205,25 +216,126 @@
             // 
             // chart1
             // 
-            chartArea1.Name = "ChartArea1";
-            chart1.ChartAreas.Add(chartArea1);
-            legend1.Name = "Legend1";
-            chart1.Legends.Add(legend1);
+            chartArea2.Name = "ChartArea1";
+            chart1.ChartAreas.Add(chartArea2);
+            legend2.Name = "Legend1";
+            chart1.Legends.Add(legend2);
             chart1.Location = new Point(12, 233);
             chart1.Name = "chart1";
-            series1.ChartArea = "ChartArea1";
-            series1.Legend = "Legend1";
-            series1.Name = "Series1";
-            chart1.Series.Add(series1);
+            series2.ChartArea = "ChartArea1";
+            series2.Legend = "Legend1";
+            series2.Name = "Series1";
+            chart1.Series.Add(series2);
             chart1.Size = new Size(464, 328);
             chart1.TabIndex = 13;
             chart1.Text = "chart1";
+            // 
+            // pictureBoxVideo
+            // 
+            pictureBoxVideo.Location = new Point(852, 61);
+            pictureBoxVideo.Name = "pictureBoxVideo";
+            pictureBoxVideo.Size = new Size(800, 400);
+            pictureBoxVideo.TabIndex = 14;
+            pictureBoxVideo.TabStop = false;
+            // 
+            // pictureBoxContour
+            // 
+            pictureBoxContour.Location = new Point(852, 467);
+            pictureBoxContour.Name = "pictureBoxContour";
+            pictureBoxContour.Size = new Size(800, 400);
+            pictureBoxContour.TabIndex = 15;
+            pictureBoxContour.TabStop = false;
+            pictureBoxContour.Click += pictureBoxContour_Click;
+            // 
+            // checkBox2
+            // 
+            checkBox2.AutoSize = true;
+            checkBox2.Location = new Point(303, 71);
+            checkBox2.Name = "checkBox2";
+            checkBox2.Size = new Size(71, 24);
+            checkBox2.TabIndex = 16;
+            checkBox2.Text = "Vision";
+            checkBox2.UseVisualStyleBackColor = true;
+            checkBox2.CheckedChanged += checkBox2_CheckedChanged;
+            // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Location = new Point(500, 441);
+            label1.Name = "label1";
+            label1.Size = new Size(50, 20);
+            label1.TabIndex = 17;
+            label1.Text = "label1";
+            // 
+            // button3
+            // 
+            button3.Location = new Point(665, 233);
+            button3.Name = "button3";
+            button3.Size = new Size(94, 29);
+            button3.TabIndex = 18;
+            button3.Text = "Home";
+            button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Location = new Point(500, 284);
+            label2.Name = "label2";
+            label2.Size = new Size(50, 20);
+            label2.TabIndex = 19;
+            label2.Text = "label2";
+            // 
+            // checkBox3
+            // 
+            checkBox3.AutoSize = true;
+            checkBox3.Checked = true;
+            checkBox3.CheckState = CheckState.Checked;
+            checkBox3.Location = new Point(303, 100);
+            checkBox3.Name = "checkBox3";
+            checkBox3.Size = new Size(101, 24);
+            checkBox3.TabIndex = 20;
+            checkBox3.Text = "LimitBreak";
+            checkBox3.UseVisualStyleBackColor = true;
+            checkBox3.CheckedChanged += checkBox3_CheckedChanged;
+            // 
+            // button4
+            // 
+            button4.Location = new Point(752, 176);
+            button4.Name = "button4";
+            button4.Size = new Size(94, 29);
+            button4.TabIndex = 21;
+            button4.Tag = "relay";
+            button4.Text = "Sequence";
+            button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click;
+            // 
+            // checkBox4
+            // 
+            checkBox4.AutoSize = true;
+            checkBox4.Checked = true;
+            checkBox4.CheckState = CheckState.Checked;
+            checkBox4.Location = new Point(406, 38);
+            checkBox4.Name = "checkBox4";
+            checkBox4.Size = new Size(63, 24);
+            checkBox4.TabIndex = 22;
+            checkBox4.Text = "Auto";
+            checkBox4.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1136, 561);
+            ClientSize = new Size(1582, 753);
+            Controls.Add(checkBox4);
+            Controls.Add(button4);
+            Controls.Add(checkBox3);
+            Controls.Add(label2);
+            Controls.Add(button3);
+            Controls.Add(label1);
+            Controls.Add(checkBox2);
+            Controls.Add(pictureBoxContour);
+            Controls.Add(pictureBoxVideo);
             Controls.Add(chart1);
             Controls.Add(checkBox1);
             Controls.Add(button2);
@@ -245,6 +357,8 @@
             KeyUp += Form1_KeyUp;
             ((System.ComponentModel.ISupportInitialize)numericUpDown1).EndInit();
             ((System.ComponentModel.ISupportInitialize)chart1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBoxVideo).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBoxContour).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -266,5 +380,14 @@
         private CheckBox checkBox1;
         private System.Windows.Forms.Timer timer1;
         private System.Windows.Forms.DataVisualization.Charting.Chart chart1;
+        private PictureBox pictureBoxVideo;
+        private PictureBox pictureBoxContour;
+        private CheckBox checkBox2;
+        private Label label1;
+        private Button button3;
+        private Label label2;
+        private CheckBox checkBox3;
+        private Button button4;
+        private CheckBox checkBox4;
     }
 }

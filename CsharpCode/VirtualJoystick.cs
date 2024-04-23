@@ -10,7 +10,7 @@ namespace RoboticArmUI
         private Point thumbPosition;
         private bool thumbDragging;
 
-        public event EventHandler<Point>? JoystickMoved;
+        public event EventHandler<Point> JoystickMoved;
 
         public VirtualJoystick()
         {
